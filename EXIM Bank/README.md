@@ -2,6 +2,16 @@
 
 This Tableau dashboard provides a comprehensive analysis of authorizations made by the U.S. Export-Import Bank (EXIM) from FY07 to FY23. The dashboard focuses on total dollars authorized, minority and MWOB (Minority- and Women-Owned Business) participation, top industry sectors, and the geographical distribution of authorizations across the U.S.
 
+---
+
+### Features:
+- **Time Series Analysis**: Explore authorizations by fiscal year.
+- **NAICS Code Filtering**: Understand which sectors receive the most support.
+- **Geospatial Insights**: Visualize the distribution of authorized dollars across states.
+
+---
+
+
 ## Key Visuals and Insights
 
 1. **Total Authorizations**:
@@ -56,13 +66,4 @@ The data for this project was sourced from the EXIM Bank’s publicly available 
 
 The U.S. Export-Import Bank Dashboard provides valuable insights into federal authorizations for export financing. By analyzing fiscal trends, industry sectors, and minority group participation, the dashboard supports strategic planning for businesses, policymakers, and financial institutions involved in U.S. exports.
 
-
----
-
-### Features:
-- **Time Series Analysis**: Explore authorizations by fiscal year.
-- **NAICS Code Filtering**: Understand which sectors receive the most support.
-- **Geospatial Insights**: Visualize the distribution of authorized dollars across states.
-
----
 
