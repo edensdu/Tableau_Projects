@@ -56,11 +56,6 @@ The data for this project was sourced from the EXIM Bank’s publicly available 
 
 The U.S. Export-Import Bank Dashboard provides valuable insights into federal authorizations for export financing. By analyzing fiscal trends, industry sectors, and minority group participation, the dashboard supports strategic planning for businesses, policymakers, and financial institutions involved in U.S. exports.
 
----
-
-### Dashboard Screenshot
-
-![EXIM Bank Dashboard](./path/to/your/screenshot.jpg)
 
 ---
 
